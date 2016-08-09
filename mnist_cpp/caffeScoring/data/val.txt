@@ -1,0 +1,3 @@
+cat.jpg 0
+fish_bike.jpg 0
+red_fox.jpg 0
